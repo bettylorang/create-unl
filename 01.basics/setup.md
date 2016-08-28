@@ -1,0 +1,35 @@
+###Setting up your Create UNL Account
+From [Create UNL](https://createunl.com),
+
+1. Click **Get Started**
+2. You should now be on a secure UNL login page. Enter your My.UNL account credentials and click **Log In**. Once you enter your credentials and click log in, it may take several seconds for the next page to load.
+
+####Domains and Sub-domains
+You should now be on a page that says **Choose Your Domain**. You are actually getting a sub-domain of createunl.com. In layperson's terms, you'll pick the text that appears before *createunl.com*. For example, my site is lizlorang.createunl.com, where lizlorang is a subdomain of the createunl.com domain. Whether picking a domain or a subdomain, there are several issues you'll want to consider:
+
+1. Sense. Does your (sub)domain name make sense? Ideally it will be intuitive, relevant to the content or purpose of the site, and pronounceable.
+
+2. Length. Since you will want to tell people your web address and people will have to type it, make sure it is no longer than necessary.
+
+3. Unintended readings. Are there multiple ways to read your (sub)domain name? If so, are you o.k. with all readings? Consider the example of a website once registered with the domain teacherstalking.com. This domain can be read as "teachers talking dot com" or "teacher stalking dot com," and presumably the creators had only one of these in mind.
+
+4. For the purposes of Create UNL, you may also want to avoid a sub-domain that is overly specific, such as a picking a domain for a single course or a single project. One strategy would be to pick a sub-domain that is some version of your name (e.g., lizlorang.createunl.com).
+
+####Choosing Your Sub-domain
+
+Now that you've identified the sub-domain you'd like to use, type the sub-domain you want into the text box to the page at right and click **Enter**. You will see a brief loading bar and then a Review page will load.
+
+Review your information. If you need to make any corrections, click **Start Over**. If the information is correct, then read [UNL's Computer Use Policies](http://www.unl.edu/ucomm/compuse/), check the box on the Create UNL review page indicating you will abide by these policies, and then click **Sign Up**.
+
+####Now What?
+
+Once you have successfully signed up, you should see a page to the right that has a University of Nebraska-Lincoln banner image, lots of icons for different software and configuration options, and a right-hand pane of General Information. This information pane should show a username, primary domain, and home directory, among other information, specific to your account and your sub-domain. In the future, this page, known as  your CPanel or Dashboard, is one place you can come to to install software, manage your account, and upload and download files. Future tutorials will take you through some of these processes.
+
+The last step of this tutorial is learning how to log out and to log back in to your account.
+
+1. Logging out: In the upper right of the browser window, you should see a message that says, "Howdy, [Your Name]." Hover over this message. A menu should appear. Click Log Out on this menu. Logging out returns you to the Create UNL home page.
+
+2. Logging in: Any time you'd like to log in to your account, you may:
+
+    return to https://createunl.com and click Get Started. Once you provide your UNL credentials, the system will take you to your dashboard.
+    go to https://createunl.com/dashboard and select Login with Shibboleth, then enter your UNL credentials, and the system will take you to your dashboard.
