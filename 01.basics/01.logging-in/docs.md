@@ -1,5 +1,5 @@
 
-Your client area is located at [https://createunl.com](https://createunl.com) and includes access to your account profile, domain management, as well as full cPanel access.
+Your client area is located at [https://createunl.com](https://createunl.com) and includes access to your account profile as well as full cPanel access.
 
 Account logins are your MyUNL credentials.
 
