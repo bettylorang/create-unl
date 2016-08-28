@@ -1,4 +1,4 @@
-If you're slowly trying to understand your way through the world of websites, this might be the article for you. Signing up with Create UNL was easy enough, but now what? How do you begin to develop a domain of your own?
+Signing up with Create UNL was easy enough, but now what? How do you begin to develop a domain of your own?
 
 ##### Client Area
 
