@@ -31,5 +31,5 @@ The last step of this tutorial is learning how to log out and to log back in to 
 
 2. Logging in: Any time you'd like to log in to your account, you may:
 
-    return to https://createunl.com and click Get Started. Once you provide your UNL credentials, the system will take you to your dashboard.
-    go to https://createunl.com/dashboard and select Login with Shibboleth, then enter your UNL credentials, and the system will take you to your dashboard.
+    - return to https://createunl.com and click Get Started. Once you provide your UNL credentials, the system will take you to your dashboard.
+    - go to https://createunl.com/dashboard and select Login with Shibboleth, then enter your UNL credentials, and the system will take you to your dashboard.
